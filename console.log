@@ -1,0 +1,12 @@
+>npm init
+>npm install express --save
+>npm install --save uuid
+//when posting/puting data using postman, the data is sent in the body of the request using x-www-form-urlencoded
+//to parse the body of the request, we need to install body-parser
+>npm install --save body-parser // to parse the body of the request
+>npm install --save mongodb
+
+
+
+node index.js
+
